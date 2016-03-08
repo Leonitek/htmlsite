@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+
+<html>
+	<head>
+		<meta http-equiv="Content Type" content_"text/html; charset=utf8"/>
+		<title>Leodus</title>
+	</head>
+	<body>			
+		<h1>ciao</h1>
+		<p>Lorem ipsum dolor sit amet, <b>ciao</b>consectetur adipiscing elit. Integer lobortis massa diam, sit amet varius<u>kdsfkjdas</u> dolor vehicula sed.<i>Nam accumsan malesuada egestas. Ut fringilla felis vel est gravida aliquam. In mollis vel arcu vitae varius. Nam auctor mi non urna posuere sollicitudin. Vestibulum posuere sem velit, id venenatis nisi consectetur</i>.</p>
+		<h2>ciao</h2>
+		<h3>ciao</h3>
+		<h4>ciao</h4>
+		<h5>ciao</h5>
+		<h6>ciao</h6>
+		<a href="http://www.google.com">vai su google</a>
+		<a href="http://www.facebook.com">vai su facebook</a>
+		<a href="Prova/prova.html" target"	">vai a prova</a>
+		<a href="../prova1.html">torna indietro</a>
+		<a href="http://www.twitch.tv">vai a twitch</a>
+			<img src="youtube-cover.jpeg">
+
+<a href="http://10fastfingers.com/typing-test/italian"><img src="http://img.10fastfingers.com/badge/typing-test_20_BK.png" alt="Typing Test" /></a><p>Visit the <a href="http://10fastfingers.com/typing-test/italian">Typing Test</a> and try!</p>
+	</body>
+</html>
